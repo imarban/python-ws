@@ -9,7 +9,7 @@ The purpose of this workshop is to build an application written in Python to dem
 - Install Virtual Environment Wrapper. Please follow [virtualenvwrapper installation guide](http://virtualenvwrapper.readthedocs.org/en/latest/install.html)
 
 # Application to build
-A helper application in the interviewing process. The app should ask to the user for the interview stage and the technology that the candidate is applying for. After that, the application should show questions in a sequential way waiting for the input from the user for an evaluation for the candidate's answer (from 1 to 5). When there are no more questions the app should calculate the evaluation for the interviewee and show a summary with the final evaluation and the score for each question.
+A helper application in the interviewing process. The app should ask to the user for the interview stage and the technology that the candidate is applying for. After that, the application should show questions in a sequential way waiting for the input from the user for an evaluation for the candidate's answer (from 1 to 5). When there are no more questions the app should calculate the evaluation for the interviewee.
 
 A question can be skipped leaving in blank the score.
 

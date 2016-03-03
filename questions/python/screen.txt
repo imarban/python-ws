@@ -1,0 +1,3 @@
+What is python?
+Which implementation do you use?
+What is duck typing?

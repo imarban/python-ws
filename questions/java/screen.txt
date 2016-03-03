@@ -1,0 +1,4 @@
+Define OO Concepts
+Que es Dependency injection?
+Que es inversion of control?
+Que es SOLID?

@@ -1,0 +1,5 @@
+Describe un patron que no sea el Singleton o el Factory.
+Que es una interface?
+What is the difference between abstract data types (e.g. Map, List, Set) and concrete data structures such as LinkedList or HashTable
+What is a POJO?
+What is the best sorting algorithm?

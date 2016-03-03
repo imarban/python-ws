@@ -1,0 +1,6 @@
+What is a generator?
+How can I implement abstract classes?
+Difference between xrange and range
+What is a list comprehension?
+What is pickle?
+How do I create a thread?

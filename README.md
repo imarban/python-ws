@@ -1,6 +1,8 @@
 # Python Workshop
 The purpose of this workshop is to build an application written in Python to demonstrate the main characteristics of the language. After completing this workshop the attendee should know the set of tools which Python offers to ease the software development.
 
+You can check the slides that support this workshop here [slides](https://slides.com/israelgomezmarban/python/live)
+
 # Setting up your environment
 - Install Python 2.7 (It is included in most Linux based OS and OSX).
   - Included version in OSX might be outdated, you should update it. Run `brew install python` to do that.
